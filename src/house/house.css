@@ -1,0 +1,10 @@
+.col-md-7 img {
+  width: 60%;
+  height: 250px;
+  background-color: crimson;
+}
+
+.price {
+  font-size: large;
+  color: coral;
+}
